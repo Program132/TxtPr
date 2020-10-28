@@ -1,10 +1,13 @@
-## Program
-
+### Program
 ## TxtPr 
+
+==================
 
 _Information_
 
-TxtPr is an application by Program, to launch the application double click on the "start.bat" and the application will launch!
+TxtPr is an application by Program. To launch the application double click on the "start.bat" the application will launch!
+
+------------------
 
 _Concept_
 
